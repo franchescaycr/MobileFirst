@@ -34,7 +34,7 @@ MobileFirst/
 2.	Entrar a la carpeta del proyecto:
    ```bash
     cd MobileFirst
-
+   ```
 ---
 
 3.	Abrir el archivo index.html en tu navegador favorito 🚀
@@ -48,7 +48,7 @@ El diseño está pensado para móviles primero, escalando progresivamente a tabl
 ¡Las contribuciones son bienvenidas!
 Puedes hacer un fork del repositorio y enviar un pull request.
 
-⸻
+---
 
 👩‍💻 Autor
 
