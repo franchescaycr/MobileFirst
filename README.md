@@ -12,6 +12,7 @@ Proyecto desarrollado con el enfoque **Mobile First**, priorizando la experienci
 ---
 
 ## 📂 Estructura del proyecto
+
 MobileFirst/
 ├── index.html
 ├── style.css
@@ -58,7 +59,3 @@ Franchesca Carrasco
 	•	💼 LinkedIn: linkedin.com/in/franchescaycr
 ---
 
-📄 Licencia
-
-Este proyecto está bajo la licencia MIT.
-Puedes usarlo libremente en proyectos personales o profesionales.
