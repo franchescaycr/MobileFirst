@@ -1,4 +1,4 @@
-# 📱 MobileFirst
+# 📱 Batatabit
 
 Proyecto desarrollado con el enfoque **Mobile First**, priorizando la experiencia de usuario en dispositivos móviles y adaptando progresivamente a pantallas más grandes.  
 
