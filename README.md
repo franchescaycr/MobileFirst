@@ -12,7 +12,7 @@ Proyecto desarrollado con el enfoque **Mobile First**, priorizando la experienci
 ---
 
 ## 📂 Estructura del proyecto
-
+```
 MobileFirst/
 ├── index.html
 ├── style.css
@@ -20,7 +20,7 @@ MobileFirst/
 │   ├── images/
 │   └── icons/
 └── README.md
-
+```
 
 ---
 
@@ -29,7 +29,7 @@ MobileFirst/
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/franchescaycr/MobileFirst.git
-   
+    ```
 ---
 
 2.	Entrar a la carpeta del proyecto:
